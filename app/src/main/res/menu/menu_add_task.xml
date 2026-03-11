@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/action_add_video"
+            android:icon="@drawable/ic_video"
+            android:title="视频转码"/>
+
+    <item
+            android:id="@+id/action_add_audio"
+            android:icon="@drawable/ic_audio"
+            android:title="音频转码"/>
+
+    <item
+            android:id="@+id/action_add_image"
+            android:icon="@drawable/ic_image"
+            android:title="图片转码"/>
+
+</menu>
